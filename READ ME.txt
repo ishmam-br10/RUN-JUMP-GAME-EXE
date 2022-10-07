@@ -1,0 +1,10 @@
+USE ARROW FOR DIRECTION
+USE SPACE BAR TO JUMP
+UP ARROW FOR SOUND UP
+DOWN ARROW FOR SOUND DOWN
+'S' FOR SOUND ON
+'M' FOR MUTE
+
+Soud tack : 'DAREDEVIL MAIN THEME'
+
+It was just a fun project and nothing special here
